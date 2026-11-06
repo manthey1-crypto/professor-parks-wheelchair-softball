@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://manthey1-crypto.github.io/professor-parks-wheelchair-softball/</loc>
+    <lastmod>2026-11-06T21:37:03.496Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://manthey1-crypto.github.io/professor-parks-wheelchair-softball/interest/</loc>
     <lastmod>2026-11-06T21:36:51.627Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -8,11 +13,6 @@
   <url>
     <loc>https://manthey1-crypto.github.io/professor-parks-wheelchair-softball/admin/</loc>
     <lastmod>2026-11-06T21:35:16.825Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://manthey1-crypto.github.io/professor-parks-wheelchair-softball/</loc>
-    <lastmod>2026-11-06T21:34:44.168Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
